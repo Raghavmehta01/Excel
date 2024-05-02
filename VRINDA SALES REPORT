@@ -1,0 +1,20 @@
+project, in which I utilized Excel to generate a comprehensive annual sales report for Vrinda Stores. I would appreciate any feedback or thoughts on my work.
+The objective of the project was to enable Vrinda Stores to analyse their 2022 sales data and gain insights into their customer base, ultimately leading to increased sales in 2023. Below are some of the key questions we aimed to answer:
+
+- Can we compare sales and orders using a single chart?
+- Which month had the highest sales and orders?
+- Did men or women make more purchases in 2022?
+- What were the different order statuses in 2022?
+- Which five states contributed the most to sales?
+- Is there a correlation between age and gender?
+- Which sales channel contributed the most?
+- Which category had the highest sales?
+
+After cleaning, processing and analyzing the data, I discovered several interesting insights:
+
+- March had the highest number of sales.
+- Women made approximately 65% of the total purchases.
+- Maharashtra, Karnataka, and Uttar Pradesh were the top three - states contributing to sales, accounting for approximately 35% of the total.
+- The adult age group (30-49 years) contributed the most to sales, at approximately 50%.
+- Amazon, Flipkart, and Myntra were the sales channels that contributed the most, accounting for approximately 80% of the total.
+Based on these insights, I recommend that Vrinda Stores target women customers in the 30-49 age group living in Maharashtra, Karnataka, and Uttar Pradesh by showcasing ads, offers, and coupons available on Amazon, Flipkart, and Myntra to improve sales.
